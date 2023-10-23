@@ -1,0 +1,36 @@
+:host() {
+    display: flex;
+    flex-direction: column;
+}
+
+app-footer {
+    align-self:flex-end;
+    color: aliceblue;
+
+}
+
+.space {
+    flex-grow: 1;
+}
+
+.content{
+    text-align: center;
+    color: aliceblue;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.font{
+    color: aliceblue;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.link{
+    color: aliceblue;
+}
+.titulo{
+    color: aliceblue;
+    font-size: large;
+}
+.href{
+    color: rgb(255, 196, 0);
+}
